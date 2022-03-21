@@ -1,5 +1,4 @@
 # Analise das licitações do TCE-RS - Amostral
-# Poverty classification using Machine Learning
 
 Este projeto apresenta uma análise dos dados acerca das licitações, quais foram obtidas junto ao portal de dados abertos do TCE-RS. O exercício empírico foi executado por meio dos dados acerca das licitações e de items, disponibilizados nos arquivos *licitacao.csv* e *item.csv* 
 ------ 
