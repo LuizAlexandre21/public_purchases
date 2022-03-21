@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/python-poetry/poetry/master/install-poetry.py 
 ## 3. Starting Project - Local
 ### 3.1 Cloning the repository
 ```sh 
-
+https://github.com/LuizAlexandre21/public_puchases.git
 ```
 
 ### 3.2 Installing project dependencies
